@@ -2,6 +2,8 @@
 
 # INSTRUCTIONS
 
+- Install the .rar file, extract the contents, and open it in your C# IDE
+  
 ## IMPORTS (THE PACKAGES I HAVE INSTALLED FROM NuGet):
 `System.Data.SQLite`
 
